@@ -1,4 +1,4 @@
-### Hi there! I'm Pranav Chavare👋
+###                                                                    Hi there! I'm Pranav Chavare👋
 
 
 
@@ -7,7 +7,13 @@
 Here are some ideas to get you started:-->
 
 - 🔭 I’m a Computers and Communication student 
-- 🌱 I’m currently learning Android Development and Machine Learning
-- 👯 I have experience working with Nodejs, Socket.io, and Flutter.  
+- 
+-  🌱 I’m currently learning Android Development and Machine Learning
+- 
+- 💭 I have experience working with Nodejs, Socket.io, and Flutter.  
+- 
 - 📫 How to reach me: pranavchavare33@gmail.com
+
+
+[![Pranav's GitHub stats](https://github-readme-stats.vercel.app/api?username=pranavc33)](https://github.com/anuraghazra/github-readme-stats)
 
