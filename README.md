@@ -12,7 +12,8 @@ Here are some ideas to get you started:-->
 
 - 💭 I have experience working with Nodejs, Socket.io, and Flutter.  
 
-- 📫 How to reach me: pranavchavare33@gmail.com
+- 📫 How to reach me: pranavchavare33@gmail.com/pranav.chavare@learner.manipal.edu
+
 
 
 [![Pranav's GitHub stats](https://github-readme-stats.vercel.app/api?username=pranavc33)](https://github.com/anuraghazra/github-readme-stats)
