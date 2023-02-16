@@ -6,7 +6,7 @@
 
 Here are some ideas to get you started:-->
 
-- 🔭 I’m a Computers and Communication student 
+- 🔭 I’m a sophomore Computers and Communication student 
 
 -  🌱 I’m currently learning Android Development and Machine Learning
 
