@@ -6,9 +6,9 @@
 
 Here are some ideas to get you started:-->
 
-- 🔭 I’m a sophomore Computers and Communication student at MIT, Manipal.
+- 🔭 I’m a final Computers and Communication student at MIT, Manipal.
 
--  🌱 I’m currently learning Android Development and Machine Learning.
+-  🌱 I’m somewhat know Android Development and Machine Learning.
 
 - 💭 I have experience working with Nodejs, Socket.io, and Flutter.  
 
